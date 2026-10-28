@@ -1,4 +1,4 @@
-﻿licor action,,licor time,note
+﻿licor_action,licor_date,licor_time,note
 start,9/15/26,16:47,firesting time was 16:45
 restart,9/16/26,9:16,note that zentra time is computer time and 4 min faster that firesting and 6 min faster than licor
 na,9/18/26,,"drain at 30kPa for 15 minutes then 45kPa for an hour, then change to 25kPa for over weekend"
